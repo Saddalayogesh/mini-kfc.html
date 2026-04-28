@@ -42,39 +42,41 @@ Zero dependencies – just a browser.
 
 📂 Project Structure
 
-mini-kfc/
+mini-kfc
+
 ├── index.html
+
 └── README.md
 
 ---
+---
 
-🚀 Run the Project
+🚀 Run Locally
 
-Open "index.html" in any browser.
+1. Clone the repo
+   "git clone https://github.com/your-username/mini-kfc.git"
+
+2. Open "index.html" in any browser
+
+Or run a simple server:
+"python -m http.server 8000"
 
 ---
 
-⚠️ Notes
+🎨 Design Highlights
 
-- "<marquee>" used for demo
-- Not responsive yet
-- Links are placeholders
+- Primary red theme (KFC style)
+- Clean light background
+- Simple card-style layout
+- Basic hover effects
 
 ---
 
 🔧 Future Improvements
 
-- 📱 Responsive design (Flexbox/Grid)
-- ✨ Replace marquee with animation
-- 🎯 Better UI styling
-- ⚙️ Add JavaScript features
+- Add real navigation pages
+- Add JavaScript features (cart, interactions)
+- Improve UI design
+- Make responsive
 
 ---
-
-👨‍💻 Author
-
-Your Name
-
----
-
-✨ Simple code. Clean design. Tasty UI.
