@@ -1,12 +1,9 @@
-
 # 🍗 Mini KFC
 
 > A clean, tasty landing page inspired by KFC — built with pure HTML & CSS.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge)
-
 ---
 
 ## 📌 Overview
@@ -54,7 +51,7 @@ mini-kfc
 🚀 Run Locally
 
 1. Clone the repo
-   "git clone https://github.com/your-username/mini-kfc.git"
+   "https://saddalayogesh.github.io/MiniKfc.html/" 
 
 2. Open "index.html" in any browser
 
