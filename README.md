@@ -51,7 +51,7 @@ mini-kfc
 🚀 Run Locally
 
 1. Clone the repo
-   "https://saddalayogesh.github.io/MiniKfc.html/" 
+   "https://github.com/Saddalayogesh/mini-kfc.html.git" 
 
 2. Open "index.html" in any browser
 
